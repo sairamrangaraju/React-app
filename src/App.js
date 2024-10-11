@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> Welcome to FLM - Deploying React Application using AWS Amplify
+          Edit <code>src/App.js</code> This is Sairam Rangaraju
         </p>
         <a
           className="App-link"
