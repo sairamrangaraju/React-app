@@ -7,8 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> Welcome to Crowd Connect Planner's
-                                       Allthings at one place!
+          Edit <code>src/App.js</code> Welcome to Crowd Connect Planner's!!!
         </p>
         <a
           className="App-link"
